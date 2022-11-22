@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/work/learn-terraform-provision-eks-cluster/.idea/learn-terraform-provision-eks-cluster.iml" filepath="$USER_HOME$/work/learn-terraform-provision-eks-cluster/.idea/learn-terraform-provision-eks-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tech-assement.iml" filepath="$PROJECT_DIR$/.idea/tech-assement.iml" />
+    </modules>
+  </component>
+</project>
